@@ -1,44 +1,8 @@
 [gd_scene load_steps=2 format=3 uid="uid://60jqfgfx1yra"]
 
-[ext_resource type="PackedScene" uid="uid://d2hbrthmrx0uv" path="res://vsk_tech_fair/art/adult-female/sk_feminine_adult.blend" id="1_qf7ve"]
+[ext_resource type="PackedScene" uid="uid://dt03klt27pi3n" path="res://vsk_tech_fair/scenes/sk_feminine_adult.tscn" id="1_ocp8j"]
 
 [node name="Node3D" type="Node3D"]
-
-[node name="sk_feminine_adult" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.099135, 0)
-
-[node name="sk_feminine_adult2" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0.099135, 0)
-
-[node name="sk_feminine_adult5" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.099135, 0)
-
-[node name="sk_feminine_adult6" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.099135, 0)
-
-[node name="sk_feminine_adult3" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.099135, -2)
-
-[node name="sk_feminine_adult4" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0.099135, -2)
-
-[node name="sk_feminine_adult7" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.099135, -2)
-
-[node name="sk_feminine_adult8" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.099135, -2)
-
-[node name="sk_feminine_adult9" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.099135, -4)
-
-[node name="sk_feminine_adult10" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0.099135, -4)
-
-[node name="sk_feminine_adult11" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.099135, -4)
-
-[node name="sk_feminine_adult12" parent="." instance=ExtResource("1_qf7ve")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0.099135, -4)
 
 [node name="CSGCombiner3D" type="CSGCombiner3D" parent="."]
 use_collision = true
@@ -60,3 +24,29 @@ size = Vector3(0.4, 2.5, 6)
 [node name="CSGBox3D4" type="CSGBox3D" parent="CSGCombiner3D"]
 transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 2, 1.35, -5)
 size = Vector3(0.4, 2.5, 6)
+
+[node name="sk_feminine_adult2" parent="." instance=ExtResource("1_ocp8j")]
+
+[node name="sk_feminine_adult3" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0)
+
+[node name="sk_feminine_adult4" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, 0)
+
+[node name="sk_feminine_adult5" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -2)
+
+[node name="sk_feminine_adult6" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, -2)
+
+[node name="sk_feminine_adult7" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, -2)
+
+[node name="sk_feminine_adult8" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -4)
+
+[node name="sk_feminine_adult9" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, -4)
+
+[node name="sk_feminine_adult10" parent="." instance=ExtResource("1_ocp8j")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0, -4)
