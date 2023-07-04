@@ -1,0 +1,42 @@
+[remap]
+
+importer="animation_library"
+importer_version=1
+type="AnimationLibrary"
+uid="uid://c13yr64j6k7tf"
+path="res://.godot/imported/floof_melt.glb-363c9630f9ef26ee26d74f5afbad6f94.res"
+
+[deps]
+
+source_file="res://vsk_tech_fair/art/anim_floof_melt/floof_melt.glb"
+dest_files=["res://.godot/imported/floof_melt.glb-363c9630f9ef26ee26d74f5afbad6f94.res"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={
+"nodes": {
+"PATH:Sketchfab_model/root/GLTF_SceneRootNode/floof_0/GLTF_created_0/Skeleton3D": {
+"retarget/bone_map": Object(BoneMap,"resource_local_to_scene":false,"resource_name":"","profile":Object(SkeletonProfileHumanoid,"resource_local_to_scene":false,"resource_name":"","root_bone":&"Root","scale_base_bone":&"Hips","group_size":4,"bone_size":56,"script":null)
+,"bonemap":null,"bone_map/Root":&"Root_1","bone_map/Hips":&"J_Bip_C_Hips_2","bone_map/Spine":&"J_Bip_C_Spine_11","bone_map/Chest":&"J_Bip_C_Chest_12","bone_map/UpperChest":&"J_Bip_C_UpperChest_13","bone_map/Neck":&"J_Bip_C_Neck_18","bone_map/Head":&"J_Bip_C_Head_19","bone_map/LeftEye":&"J_Adj_L_FaceEye_20","bone_map/RightEye":&"J_Adj_R_FaceEye_21","bone_map/Jaw":&"","bone_map/LeftShoulder":&"J_Bip_L_Shoulder_64","bone_map/LeftUpperArm":&"J_Bip_L_UpperArm_65","bone_map/LeftLowerArm":&"J_Bip_L_LowerArm_66","bone_map/LeftHand":&"J_Bip_L_Hand_67","bone_map/LeftThumbMetacarpal":&"J_Bip_L_Thumb1_80","bone_map/LeftThumbProximal":&"J_Bip_L_Thumb2_81","bone_map/LeftThumbDistal":&"J_Bip_L_Thumb3_82","bone_map/LeftIndexProximal":&"J_Bip_L_Index1_68","bone_map/LeftIndexIntermediate":&"J_Bip_L_Index2_69","bone_map/LeftIndexDistal":&"J_Bip_L_Index3_70","bone_map/LeftMiddleProximal":&"J_Bip_L_Middle1_74","bone_map/LeftMiddleIntermediate":&"J_Bip_L_Middle2_75","bone_map/LeftMiddleDistal":&"J_Bip_L_Middle3_76","bone_map/LeftRingProximal":&"J_Bip_L_Ring1_77","bone_map/LeftRingIntermediate":&"J_Bip_L_Ring2_78","bone_map/LeftRingDistal":&"J_Bip_L_Ring3_79","bone_map/LeftLittleProximal":&"J_Bip_L_Little1_71","bone_map/LeftLittleIntermediate":&"J_Bip_L_Little2_72","bone_map/LeftLittleDistal":&"J_Bip_L_Little3_73","bone_map/RightShoulder":&"J_Bip_R_Shoulder_83","bone_map/RightUpperArm":&"J_Bip_R_UpperArm_84","bone_map/RightLowerArm":&"J_Bip_R_LowerArm_85","bone_map/RightHand":&"J_Bip_R_Hand_86","bone_map/RightThumbMetacarpal":&"J_Bip_R_Thumb1_99","bone_map/RightThumbProximal":&"J_Bip_R_Thumb2_100","bone_map/RightThumbDistal":&"J_Bip_R_Thumb3_101","bone_map/RightIndexProximal":&"J_Bip_R_Index1_87","bone_map/RightIndexIntermediate":&"J_Bip_R_Index2_88","bone_map/RightIndexDistal":&"J_Bip_R_Index3_89","bone_map/RightMiddleProximal":&"J_Bip_R_Middle1_93","bone_map/RightMiddleIntermediate":&"J_Bip_R_Middle2_94","bone_map/RightMiddleDistal":&"J_Bip_R_Middle3_95","bone_map/RightRingProximal":&"J_Bip_R_Ring1_96","bone_map/RightRingIntermediate":&"J_Bip_R_Ring2_97","bone_map/RightRingDistal":&"J_Bip_R_Ring3_98","bone_map/RightLittleProximal":&"J_Bip_R_Little1_90","bone_map/RightLittleIntermediate":&"J_Bip_R_Little2_91","bone_map/RightLittleDistal":&"J_Bip_R_Little3_92","bone_map/LeftUpperLeg":&"J_Bip_L_UpperLeg_102","bone_map/LeftLowerLeg":&"J_Bip_L_LowerLeg_111","bone_map/LeftFoot":&"J_Bip_L_Foot_119","bone_map/LeftToes":&"J_Bip_L_ToeBase_120","bone_map/RightUpperLeg":&"J_Bip_R_UpperLeg_121","bone_map/RightLowerLeg":&"J_Bip_R_LowerLeg_130","bone_map/RightFoot":&"J_Bip_R_Foot_138","bone_map/RightToes":&"J_Bip_R_ToeBase_139","script":null)
+,
+"retarget/remove_tracks/unmapped_bones": true,
+"retarget/rest_fixer/fix_silhouette/enable": true
+}
+}
+}
+gltf/embedded_image_handling=1
