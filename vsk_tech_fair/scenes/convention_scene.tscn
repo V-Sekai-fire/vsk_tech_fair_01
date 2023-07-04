@@ -1,0 +1,160 @@
+[gd_scene load_steps=2 format=3 uid="uid://d6rhotr5qoe2"]
+
+[ext_resource type="PackedScene" uid="uid://60jqfgfx1yra" path="res://vsk_tech_fair/scenes/vsk_tech_fair.tscn" id="1_iuclc"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="A" type="Node3D" parent="."]
+
+[node name="Gallery0" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -7)
+
+[node name="Gallery1" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -23)
+
+[node name="Gallery2" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -39)
+
+[node name="Gallery3" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery4" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery5" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -71)
+
+[node name="Gallery6" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -87)
+
+[node name="Gallery7" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -103)
+
+[node name="Gallery8" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="Gallery9" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="GalleryA" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -135)
+
+[node name="GalleryB" parent="A" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -151)
+
+[node name="B" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 16, 0, 0)
+
+[node name="Gallery0" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -7)
+
+[node name="Gallery1" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -23)
+
+[node name="Gallery2" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -39)
+
+[node name="Gallery3" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery4" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery5" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -71)
+
+[node name="Gallery6" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -87)
+
+[node name="Gallery7" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -103)
+
+[node name="Gallery8" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="Gallery9" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="GalleryA" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -135)
+
+[node name="GalleryB" parent="B" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -151)
+
+[node name="C" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 32, 0, 0)
+
+[node name="Gallery0" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -7)
+
+[node name="Gallery1" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -23)
+
+[node name="Gallery2" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -39)
+
+[node name="Gallery3" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery4" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery5" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -71)
+
+[node name="Gallery6" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -87)
+
+[node name="Gallery7" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -103)
+
+[node name="Gallery8" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="Gallery9" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="GalleryA" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -135)
+
+[node name="GalleryB" parent="C" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -151)
+
+[node name="D" type="Node3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 48, 0, 0)
+
+[node name="Gallery0" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -7)
+
+[node name="Gallery1" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -23)
+
+[node name="Gallery2" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -39)
+
+[node name="Gallery3" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery4" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -55)
+
+[node name="Gallery5" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -71)
+
+[node name="Gallery6" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -87)
+
+[node name="Gallery7" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -103)
+
+[node name="Gallery8" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="Gallery9" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -119)
+
+[node name="GalleryA" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -135)
+
+[node name="GalleryB" parent="D" instance=ExtResource("1_iuclc")]
+transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -151)
