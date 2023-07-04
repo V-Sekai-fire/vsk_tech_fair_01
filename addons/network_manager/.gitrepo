@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/V-Sekai/network_manager
+	branch = main
+	commit = def9084d7289723d8607da8aaa8872691823b072
+	parent = 083a0e073b917d9bfc60ef49477c8a6a59c75e92
+	method = merge
+	cmdver = 0.4.6

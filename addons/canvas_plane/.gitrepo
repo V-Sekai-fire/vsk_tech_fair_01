@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/V-Sekai/canvas_plane
+	branch = main
+	commit = 58665cc15d830c35ee70647e314e8ebdd29bb57e
+	parent = e6b98c3dad49418ed1ffaa0fa4d1954b6006904f
+	method = merge
+	cmdver = 0.4.6

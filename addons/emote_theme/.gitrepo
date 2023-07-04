@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/V-Sekai/emote_theme
+	branch = main
+	commit = eae9a63f9d4dc430ea561bafa7b1612a88b20886
+	parent = 0fa5408ea4db1148e6584c027d5986c0b6ddb24c
+	method = merge
+	cmdver = 0.4.6
