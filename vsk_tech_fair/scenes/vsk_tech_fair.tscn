@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://dt03klt27pi3n" path="res://vsk_tech_fair/scenes/sk_feminine_adult.tscn" id="1_ocp8j"]
 
-[node name="Node3D" type="Node3D"]
+[node name="Gallery" type="Node3D"]
 
 [node name="CSGCombiner3D" type="CSGCombiner3D" parent="."]
 use_collision = true
