@@ -1713,6 +1713,7 @@ _data = {
 [node name="sk_feminine_adult" instance=ExtResource("1_0e3w2")]
 
 [node name="GeneralSkeleton" parent="Armature" index="1"]
+bones/0/position = Vector3(-0.0281433, 0.91537, 0.0337966)
 bones/0/rotation = Quaternion(0.000943502, 0.0248712, -0.0187934, 0.999514)
 bones/1/rotation = Quaternion(-0.0448684, -0.0297039, 0.00451548, 0.998541)
 bones/3/rotation = Quaternion(-0.138841, 0, 0, 0.990315)
