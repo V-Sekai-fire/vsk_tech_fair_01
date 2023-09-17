@@ -1,6 +1,9 @@
-[gd_scene load_steps=2 format=3 uid="uid://d6rhotr5qoe2"]
+[gd_scene load_steps=3 format=3 uid="uid://d6rhotr5qoe2"]
 
 [ext_resource type="PackedScene" uid="uid://60jqfgfx1yra" path="res://vsk_tech_fair/scenes/vsk_tech_fair.tscn" id="1_iuclc"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_004jb"]
+albedo_color = Color(0.328739, 0.496398, 0.700306, 1)
 
 [node name="Node3D" type="Node3D"]
 
@@ -163,3 +166,4 @@ transform = Transform3D(6.12303e-17, 0, -1, 0, 1, 0, 1, 0, 6.12303e-17, 3, 0, -1
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 31, -0.457024, -75)
 use_collision = true
 size = Vector3(80, 1, 180)
+material = SubResource("StandardMaterial3D_004jb")
